@@ -15,3 +15,15 @@ the whole C drive.
 
 
 ![image](https://github.com/Keshavbgs21/Armored-Antivirus/assets/94907327/644bf614-54c7-44fc-8d97-623f0ba3aff5)
+
+
+The “Armored Antivirus” is a generic antivirus approach that will
+detect the suspicious behaviors of the files that are scanned and it
+avoids the pitfalls of the signature scanning method and provides full
+security to the user.
+
+This project has dropped a small stone in water, by designing an
+application that provides a generic antivirus approach that is used to
+scan the files efficiently. “Armored Antivirus” being developed by
+restricting the present technology available in our college meets the
+desired needs of the requirements completely
