@@ -12,3 +12,5 @@ and deleting files that it detects as infected.
  In Quick Scan we check the common area for computer viruses.
 scanned areas can include computer memory in short here we scan
 the whole C drive.
+
+![Uploading image.png…]()
