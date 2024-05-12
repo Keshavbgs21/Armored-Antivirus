@@ -13,4 +13,5 @@ and deleting files that it detects as infected.
 scanned areas can include computer memory in short here we scan
 the whole C drive.
 
-![Uploading image.png…]()
+
+![image](https://github.com/Keshavbgs21/Armored-Antivirus/assets/94907327/644bf614-54c7-44fc-8d97-623f0ba3aff5)
